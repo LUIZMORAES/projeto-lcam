@@ -1,4 +1,4 @@
-![](C:\xampp\htdocs\projeto-lcam\imagem_projeto\portifolio.jpg)
+![](projeto-lcam\imagem_projeto\portifolio.jpg)
 
 ## PORTIFÓLIO DA LCAM 
 
