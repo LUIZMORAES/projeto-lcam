@@ -1,4 +1,4 @@
-![](projeto-lcam\imagem_projeto\portifolio.jpg)
+![](https://github.com/LUIZMORAES/projeto-lcam/blob/main/imagem_projeto/portifolio.jpg)
 
 ## PORTIFÓLIO DA LCAM 
 
